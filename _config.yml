@@ -6,9 +6,9 @@ color:
   saturation: 0.1728848684579134
   rhythmicContrast: 0.32429560529999435
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
 name: rapidtech
