@@ -13,9 +13,6 @@ color:
     - '#E376B7'
 name: Rapidtech
 navigation:
-  - name: RAIDTECH
-    url: 'http://rapidtech.computer'
-    type: external
   - name: RAPIDTECH
     url: 'http://www.rapidtech.guru'
     type: external
